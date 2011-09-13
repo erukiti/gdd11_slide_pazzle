@@ -47,4 +47,10 @@ pazzle_resume.rb
 
 思ったよりも効果が発揮できなかった
 
+■古いヤツ
 
+* solver.rb
+  一番最初に Ruby で書いた逆方向幅優先探索
+
+* solver_ida_md_1.c
+  何がどうだったか、もう覚えてない
